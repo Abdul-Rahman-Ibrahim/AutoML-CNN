@@ -20,6 +20,6 @@ CNN(
     in_channel: int = 1
 )
 
-
+```
 # USAGE EXAMPLE
 [Example Usage](./test.ipynb)
