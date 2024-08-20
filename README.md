@@ -22,4 +22,4 @@ CNN(
 
 ```
 # USAGE EXAMPLE
-[Example Usage](./test.ipynb)
+[Test JupyterNotebook](./test.ipynb)
